@@ -21,7 +21,7 @@ This Python script uses Playwright to scrape business data from [BBB.org](https:
 ```bash
 pip install -r requirements.txt
 playwright install
-📁 Output
+# 📁 Output
 CSV files like output_Locksmith.csv or output_Car+Wash.csv containing:
 
 Business Name	Phone Number	Address	Category	State
